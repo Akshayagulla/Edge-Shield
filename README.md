@@ -1,4 +1,4 @@
-# 🔒 TinyGuard
+# 🔒 Edge-Shield
 
 🛡️ **Ultra-light (0.05KB) CNN model for detecting compromised IoT devices**, distilled for edge efficiency using Knowledge Distillation.
 
@@ -6,14 +6,14 @@
 
 ## 🚀 Overview
 
-**TinyGuard** is a hyper-optimized deep learning model designed to run on ultra-resource-constrained IoT environments. Leveraging **Knowledge Distillation**, we compress a powerful CNN into a **tiny 0.05KB model**—without sacrificing its ability to detect compromised or anomalous device behavior.
+**Edge-Shield** is a hyper-optimized deep learning model designed to run on ultra-resource-constrained IoT environments. Leveraging **Knowledge Distillation**, we compress a powerful CNN into a **tiny 0.05KB model**—without sacrificing its ability to detect compromised or anomalous device behavior.
 
 This project showcases how *security* and *efficiency* can co-exist on the edge.
 
 ---
 ## 🔄 Workflow
 
-![TinyGuard Flowchart](./Flowchart.png)
+![Edge-Shield Flowchart](./Flowchart.png)
 
 ---
 
