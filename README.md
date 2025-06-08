@@ -6,9 +6,9 @@
 
 ## 🚀 Overview
 
-**Edge-Shield** is a hyper-optimized deep learning model designed to run on ultra-resource-constrained IoT environments. Leveraging **Knowledge Distillation**, we compress a powerful CNN into a **tiny 0.05KB model**—without sacrificing its ability to detect compromised or anomalous device behavior.
+**Edge-Shield** is a hyper-optimized deep learning model designed to run on ultra-resource-constrained IoT environments. Leveraging **Knowledge Distillation**, we compress a powerful CNN into a **tiny 0.05KB model**—without sacrificing its ability to detect compromised or anomalous device behaviour.
 
-This project showcases how *security* and *efficiency* can co-exist on the edge.
+This project demonstrates how security and efficiency can coexist on the edge.
 
 ---
 ## 🔄 Workflow
@@ -34,7 +34,7 @@ This technique enables us to:
 
 ## 📁 Project Structure
 
-* [TinyGuard](./)
+* [Edge-Shield](./)
   * [Base-Papers](./Base-Papers)  
     * [base_paper_2.pdf](./Base-Papers/base_paper_2.pdf) – Paper on energy use in on-device ML for IoT intrusion detection
   * [Report-PPT](./Report-PPT) – Final project report and presentation
